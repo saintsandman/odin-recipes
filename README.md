@@ -1,1 +1,1 @@
-Brief introduction describing project and what I've learned
+A simple website showcasing recipes. A project to showcase knowledge of the basics of HTML. I learned how to fill the HTML boilerplate, create directories and files, navigate the terminal, make headers, paragraphs, images, lists and links. 
