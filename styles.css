@@ -2,3 +2,8 @@ h1 {
     background-color: burlywood;
     text-align: center
 }
+
+img {
+    height: auto;
+    width: 500px;
+}
