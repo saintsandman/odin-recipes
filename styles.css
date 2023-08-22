@@ -1,9 +1,24 @@
 h1 {
     background-color: burlywood;
-    text-align: center
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
 }
 
 img {
     height: auto;
     width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box {
+    width: 300px;
+    text-align: center;
+    padding: 5px;
+    margin: 0px auto;
+    margin-top: 40px;
+    border: 5px dotted rgb(1, 8, 3);
+    font-size: 25px;
+    background-color: rgb(205, 216, 140);
 }
